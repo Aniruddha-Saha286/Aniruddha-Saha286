@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aniruddha Saha 👋</h1>
 
 <h3 align="center">
-CSE Student | Cybersecurity Enthusiast | Machine Learning Learner
+CSE Student | Cybersecurity Enthusiast |
 </h3>
 
 <p align="center">
