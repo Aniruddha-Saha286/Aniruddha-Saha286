@@ -1,33 +1,24 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B39,100:0D1117&height=200&section=header&text=Aniruddha%20Saha&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20COMPUTER%20VISION%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=14&descColor=7EE7C7&animation=fadeIn" />
+<img width="100%" alt="Aniruddha Saha banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B39,100:0D1117&height=220&section=header&text=Aniruddha%20Saha&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20COMPUTER%20VISION%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=14&descColor=7EE7C7&animation=fadeIn" />
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1100&color=7EE7C7&center=true&vCenter=true&width=650&height=55&lines=%24+whoami;%3E+Cybersecurity+Enthusiast;%3E+Computer+Vision+Research+Explorer;%3E+CSE+Student+%26+Developer;%3E+Breaking.+Learning.+Building." alt="Typing Animation" />
-
-<br>
-
-<a href="mailto:sahaaniruddha2004@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=7EE7C7" />
-</a>
-&nbsp;
 <a href="https://github.com/Aniruddha-Saha286">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=7EE7C7" />
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1100&color=7EE7C7&center=true&vCenter=true&width=650&height=55&lines=%24+whoami;%3E+Cybersecurity+Enthusiast;%3E+Computer+Vision+Researcher;%3E+CSE+Student+%26+Developer;%3E+Breaking.+Learning.+Building." />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Aniruddha-Saha286&label=PROFILE+VIEWS&color=238B73&style=for-the-badge" />
 
-<br><br>
+<p>
+  <a href="mailto:sahaaniruddha2004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=7EE7C7" /></a>
+  <a href="https://github.com/Aniruddha-Saha286"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=7EE7C7" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Aniruddha-Saha286&label=PROFILE+VIEWS&color=238B73&style=for-the-badge" />
+</p>
 
-<sub>SECURITY-MINDED • RESEARCH-DRIVEN • ALWAYS BUILDING</sub>
+<sub><b>SECURITY-MINDED &nbsp;•&nbsp; RESEARCH-DRIVEN &nbsp;•&nbsp; ALWAYS BUILDING</b></sub>
 
 </div>
 
----
+<br>
 
-### `01 / identity`
+## `01 / identity`
 
 ```bash
 ┌──(aniruddha㉿brac-university)-[~/about]
@@ -36,183 +27,142 @@
 Name       : Aniruddha Saha
 University : BRAC University
 Degree     : B.Sc. in Computer Science & Engineering
-Semester   : 10th
+Semester   : 10th (final year)
+Thesis     : Computer Vision  [IN PROGRESS]
 
 Interests  : Cybersecurity
              Computer Vision & Deep Learning
-             Software Development
              Machine Learning
-
-Thesis     : Computer Vision Research [IN PROGRESS]
+             Software Development
 
 Philosophy : Understand the system.
              Question its limitations.
              Build something better.
 ```
 
-I'm a final-year **Computer Science & Engineering student at BRAC University**, interested in exploring how technology works, how systems can be secured, and how intelligent models can solve real-world problems.
+I'm a final-year CSE student at **BRAC University**. I like knowing how systems work, how they break, and how intelligent models can solve real problems.
 
-My interests span **Cybersecurity, Computer Vision, Machine Learning, and Software Development**.
+Right now my thesis is on **computer vision**: how deep models understand images and video, and where current methods fall short. Alongside that, I dig into software vulnerabilities, backend systems, databases, and secure application design.
 
-Currently, I'm focusing on **Computer Vision research for my undergraduate thesis**, exploring how deep learning models understand images and videos, and how existing methods can be improved.
+> *"Stay curious. Question assumptions. Keep building."*
 
-Alongside research, I enjoy learning about software vulnerabilities, backend systems, databases, and secure application development.
+<br>
 
-> **"Stay curious. Question assumptions. Keep building."**
+## `02 / current_focus`
 
----
+| Track | Focus | Status |
+|:--|:--|:--:|
+| 🔬 **Research** | Computer Vision & Deep Learning | ![](https://img.shields.io/badge/-ACTIVE-7EE7C7?style=flat-square&labelColor=0D1117) |
+| 🎓 **Thesis** | Undergraduate thesis exploration | ![](https://img.shields.io/badge/-IN_PROGRESS-7EE7C7?style=flat-square&labelColor=0D1117) |
+| 🔐 **Security** | Threat modeling & web application security | ![](https://img.shields.io/badge/-ACTIVE-7EE7C7?style=flat-square&labelColor=0D1117) |
+| ⚙️ **Engineering** | Secure software, backend systems & databases | ![](https://img.shields.io/badge/-ACTIVE-7EE7C7?style=flat-square&labelColor=0D1117) |
 
-### `02 / current_focus`
+<br>
 
-```diff
-+ [RESEARCH] Computer Vision & Deep Learning
-+ [RESEARCH] Undergraduate Thesis Exploration
-+ [ACTIVE]   Cybersecurity & Threat Modeling
-+ [ACTIVE]   Web Application Security
-+ [ACTIVE]   Secure Software Development
-+ [ACTIVE]   Backend Systems & Databases
-```
-
----
-
-### `03 / technology_stack`
+## `03 / technology_stack`
 
 <div align="center">
 
-**Programming Languages**
+<img alt="Tech stack" src="https://skillicons.dev/icons?i=python,c,js,html,css,nodejs,express,flask,react,mysql,mongodb,git,github,vscode&theme=dark&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" />
-
-<br><br>
-
-**Frameworks & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,react&theme=dark" />
-
-<br><br>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-
-<br><br>
-
-**Development Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<sub><b>Languages</b> Python · C · JavaScript · HTML · CSS &nbsp;|&nbsp; <b>Runtime</b> Node.js · Express · Flask · React &nbsp;|&nbsp; <b>Data</b> MySQL · MongoDB &nbsp;|&nbsp; <b>Tools</b> Git · GitHub · VS Code</sub>
 
 </div>
 
----
+<br>
 
-### `04 / academic_records`
-
-| Institution | Qualification | Result | Status |
-|:---|:---|:---:|:---:|
-| **BRAC University** | B.Sc. in CSE | In Progress | 🟢 10th Semester |
-| **Birshreshtha Noor Mohammad Public College** | HSC | `5.00 / 5.00` | Completed |
-| **Ideal School and College** | SSC | `5.00 / 5.00` | Completed |
-
----
-
-### `05 / thesis_research`
+## `04 / thesis_research`
 
 ```bash
 aniruddha@research:~$ cat thesis_status.log
 
-[STATUS] Undergraduate Thesis Research
-[DOMAIN] Computer Vision
-[STAGE]  Literature Review & Topic Exploration
+[STATUS]  Undergraduate Thesis
+[DOMAIN]  Computer Vision
+[STAGE]   Literature review & topic exploration   ▰▰▱▱▱▱▱▱  25%
 
-[AREAS OF INTEREST]
+[INTERESTS]
   ├── Video Understanding
   ├── Medical Image Analysis
   └── Object Detection
 
 [OBJECTIVE]
-  Explore meaningful research problems,
-  identify limitations in existing methods,
-  and investigate practical improvements.
+  Find a meaningful problem, pinpoint the limits of
+  existing methods, and test practical improvements.
 
-[CURRENT TASK]
-  Reading papers. Exploring ideas.
-  Understanding research gaps.
+[NOW]
+  Reading papers. Mapping research gaps.
 ```
 
-My current academic research interest is **Computer Vision**, particularly the application of deep learning to visual data.
+<br>
 
-I'm exploring research papers, existing approaches, and open problems to identify a promising direction for my undergraduate thesis.
+## `05 / academic_records`
 
-**Research interests:** Video Understanding · Medical Imaging · Object Detection · Deep Learning
+| Institution | Qualification | Result | Status |
+|:--|:--|:--:|:--:|
+| **BRAC University** | B.Sc. in CSE | In progress | 🟢 10th semester |
+| **Birshreshtha Noor Mohammad Public College** | HSC | `5.00 / 5.00` | ✅ Completed |
+| **Ideal School and College** | SSC | `5.00 / 5.00` | ✅ Completed |
 
----
+<br>
 
-### `06 / github_telemetry`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aniruddha-Saha286&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=7EE7C7&text_color=C9D1D9&icon_color=7EE7C7&ring_color=7EE7C7" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Saha286&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=7EE7C7&text_color=C9D1D9" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Aniruddha-Saha286&theme=dark&hide_border=true&background=0D1117&ring=7EE7C7&fire=7EE7C7&currStreakLabel=7EE7C7&sideLabels=C9D1D9&dates=8B949E" />
-
-</div>
-
----
-
-### `07 / contribution_activity`
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruddha-Saha286&bg_color=0D1117&color=7EE7C7&line=36BFA3&point=FFFFFF&area=true&area_color=17584D&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
-### `08 / engineering_mindset`
+## `06 / engineering_mindset`
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**🔐 Cybersecurity**
-
-Understanding vulnerabilities, authentication, access control, and secure application design.
-
+<h4>🔐 Cybersecurity</h4>
+Vulnerabilities, authentication, access control, and secure application design.
 </td>
 <td width="50%" valign="top">
-
-**👁️ Computer Vision**
-
-Exploring visual understanding, deep learning models, and research challenges involving images and videos.
-
+<h4>👁️ Computer Vision</h4>
+Visual understanding, deep learning models, and research challenges in images and video.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**🧠 Research & Learning**
-
-Reading research papers, identifying limitations, and experimenting with new ideas.
-
+<h4>🧠 Research & Learning</h4>
+Reading papers, finding limitations, and testing new ideas.
 </td>
 <td width="50%" valign="top">
-
-**⚙️ Software Engineering**
-
-Building applications using backend technologies, databases, APIs, and modern development tools.
-
+<h4>⚙️ Software Engineering</h4>
+Backend technologies, databases, APIs, and modern dev tooling.
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### `09 / establish_connection`
+## `07 / github_telemetry`
+
+<div align="center">
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aniruddha-Saha286&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7EE7C7&text_color=C9D1D9&icon_color=7EE7C7&ring_color=7EE7C7" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Saha286&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=7EE7C7&text_color=C9D1D9" />
+
+<br>
+
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Aniruddha-Saha286&theme=dark&hide_border=true&background=0D1117&ring=7EE7C7&fire=7EE7C7&currStreakLabel=7EE7C7&sideLabels=C9D1D9&dates=8B949E" />
+
+<br>
+
+<img width="98%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruddha-Saha286&bg_color=0D1117&color=7EE7C7&line=36BFA3&point=FFFFFF&area=true&area_color=17584D&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+<!--
+## `08 / featured_projects`
+Uncomment and replace REPO_NAME with your real repo names.
+
+<div align="center">
+<a href="https://github.com/Aniruddha-Saha286/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniruddha-Saha286&repo=REPO_NAME&hide_border=true&bg_color=0D1117&title_color=7EE7C7&text_color=C9D1D9&icon_color=7EE7C7" />
+</a>
+</div>
+-->
+
+<br>
+
+## `08 / establish_connection`
 
 <div align="center">
 
@@ -224,26 +174,16 @@ $ ./connect.sh --target aniruddha
 [+] Ready to exchange ideas
 ```
 
-<br>
+**Into computer vision, cybersecurity, or building something useful?**
+Open to learning, good discussions, and collaboration.
 
-**Interested in Computer Vision, Cybersecurity, or building something useful?**
+<p>
+  <a href="mailto:sahaaniruddha2004@gmail.com"><img alt="Send an email" src="https://img.shields.io/badge/SEND_AN_EMAIL-123B39?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
+  <a href="https://github.com/Aniruddha-Saha286"><img alt="Explore GitHub" src="https://img.shields.io/badge/EXPLORE_GITHUB-123B39?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+</p>
 
-I'm always open to learning, meaningful discussions, and collaboration.
-
-<br>
-
-<a href="mailto:sahaaniruddha2004@gmail.com">
-  <img src="https://img.shields.io/badge/SEND_AN_EMAIL-123B39?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
-</a>
-&nbsp;
-<a href="https://github.com/Aniruddha-Saha286">
-  <img src="https://img.shields.io/badge/EXPLORE_GITHUB-123B39?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=7EE7C7&center=true&vCenter=true&width=500&lines=Keep+learning.+Keep+building.+Stay+curious." />
+<img alt="Footer typing animation" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=7EE7C7&center=true&vCenter=true&width=500&lines=Keep+learning.+Keep+building.+Stay+curious." />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B39,100:0D1117&height=100&section=footer" />
+<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B39,100:0D1117&height=100&section=footer" />
