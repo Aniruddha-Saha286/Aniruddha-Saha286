@@ -1,27 +1,27 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B39,100:0D1117&height=200&section=header&text=Aniruddha%20Saha&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=14&descColor=7EE7C7&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B39,100:0D1117&height=200&section=header&text=Aniruddha%20Saha&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20COMPUTER%20VISION%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=14&descColor=7EE7C7&animation=fadeIn" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1100&color=7EE7C7&center=true&vCenter=true&width=650&height=55&lines=%24+whoami;%3E+Cybersecurity+Enthusiast;%3E+Computer+Science+Student;%3E+Breaking.+Learning.+Building.;%3E+Always+curious.+Always+improving." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1100&color=7EE7C7&center=true&vCenter=true&width=650&height=55&lines=%24+whoami;%3E+Cybersecurity+Enthusiast;%3E+Computer+Vision+Research+Explorer;%3E+CSE+Student+%26+Developer;%3E+Breaking.+Learning.+Building." alt="Typing Animation" />
 
 <br>
 
 <a href="mailto:sahaaniruddha2004@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=7EE7C7&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=7EE7C7" />
 </a>
 &nbsp;
 <a href="https://github.com/Aniruddha-Saha286">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=7EE7C7&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=7EE7C7" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Aniruddha-Saha286&label=PROFILE+VIEWS&color=238B73&style=for-the-badge" />
 
 <br><br>
 
-<sub>SECURITY-MINDED • CURIOUS BY DEFAULT • ALWAYS BUILDING</sub>
+<sub>SECURITY-MINDED • RESEARCH-DRIVEN • ALWAYS BUILDING</sub>
 
 </div>
 
@@ -34,34 +34,43 @@
 └─$ cat profile.txt
 
 Name       : Aniruddha Saha
-Education  : B.Sc. in Computer Science & Engineering
 University : BRAC University
+Degree     : B.Sc. in Computer Science & Engineering
 Semester   : 10th
-Interests  : Cybersecurity | Software Development | ML
+
+Interests  : Cybersecurity
+             Computer Vision & Deep Learning
+             Software Development
+             Machine Learning
+
+Thesis     : Computer Vision Research [IN PROGRESS]
 
 Philosophy : Understand the system.
-             Find its weaknesses.
+             Question its limitations.
              Build something better.
 ```
 
-I'm a final-year **Computer Science & Engineering student at BRAC University**, interested in understanding how technology works beneath the surface.
+I'm a final-year **Computer Science & Engineering student at BRAC University**, interested in exploring how technology works, how systems can be secured, and how intelligent models can solve real-world problems.
 
-My main curiosity lies in **cybersecurity** — exploring vulnerabilities, understanding attack surfaces, and learning how to build more secure systems.
+My interests span **Cybersecurity, Computer Vision, Machine Learning, and Software Development**.
 
-Beyond security, I enjoy working with **backend technologies, databases, and machine learning**, turning concepts into practical applications.
+Currently, I'm focusing on **Computer Vision research for my undergraduate thesis**, exploring how deep learning models understand images and videos, and how existing methods can be improved.
 
-> **"Break things to understand them. Build things to improve them."**
+Alongside research, I enjoy learning about software vulnerabilities, backend systems, databases, and secure application development.
+
+> **"Stay curious. Question assumptions. Keep building."**
 
 ---
 
-### `02 / currently_exploring`
+### `02 / current_focus`
 
 ```diff
-+ [ACTIVE] Cybersecurity fundamentals & threat modeling
-+ [ACTIVE] Web application security & vulnerabilities
-+ [ACTIVE] Secure software development
-+ [ACTIVE] Machine learning & practical applications
-+ [ACTIVE] Backend architecture & database systems
++ [RESEARCH] Computer Vision & Deep Learning
++ [RESEARCH] Undergraduate Thesis Exploration
++ [ACTIVE]   Cybersecurity & Threat Modeling
++ [ACTIVE]   Web Application Security
++ [ACTIVE]   Secure Software Development
++ [ACTIVE]   Backend Systems & Databases
 ```
 
 ---
@@ -70,7 +79,7 @@ Beyond security, I enjoy working with **backend technologies, databases, and mac
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" />
 
@@ -106,7 +115,39 @@ Beyond security, I enjoy working with **backend technologies, databases, and mac
 
 ---
 
-### `05 / github_telemetry`
+### `05 / thesis_research`
+
+```bash
+aniruddha@research:~$ cat thesis_status.log
+
+[STATUS] Undergraduate Thesis Research
+[DOMAIN] Computer Vision
+[STAGE]  Literature Review & Topic Exploration
+
+[AREAS OF INTEREST]
+  ├── Video Understanding
+  ├── Medical Image Analysis
+  └── Object Detection
+
+[OBJECTIVE]
+  Explore meaningful research problems,
+  identify limitations in existing methods,
+  and investigate practical improvements.
+
+[CURRENT TASK]
+  Reading papers. Exploring ideas.
+  Understanding research gaps.
+```
+
+My current academic research interest is **Computer Vision**, particularly the application of deep learning to visual data.
+
+I'm exploring research papers, existing approaches, and open problems to identify a promising direction for my undergraduate thesis.
+
+**Research interests:** Video Understanding · Medical Imaging · Object Detection · Deep Learning
+
+---
+
+### `06 / github_telemetry`
 
 <div align="center">
 
@@ -122,7 +163,7 @@ Beyond security, I enjoy working with **backend technologies, databases, and mac
 
 ---
 
-### `06 / contribution_activity`
+### `07 / contribution_activity`
 
 <div align="center">
 
@@ -132,38 +173,38 @@ Beyond security, I enjoy working with **backend technologies, databases, and mac
 
 ---
 
-### `07 / engineering_mindset`
+### `08 / engineering_mindset`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🔐 Security First**
+**🔐 Cybersecurity**
 
-Understanding vulnerabilities, authentication, access control, and how to design safer applications.
+Understanding vulnerabilities, authentication, access control, and secure application design.
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Build & Experiment**
+**👁️ Computer Vision**
 
-Learning through projects, debugging, experimenting, and improving existing solutions.
+Exploring visual understanding, deep learning models, and research challenges involving images and videos.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Continuous Learning**
+**🧠 Research & Learning**
 
-Exploring new concepts in machine learning, computer science, and modern software engineering.
+Reading research papers, identifying limitations, and experimenting with new ideas.
 
 </td>
 <td width="50%" valign="top">
 
-**🛠️ Practical Engineering**
+**⚙️ Software Engineering**
 
-Working with backend systems, databases, APIs, and real-world development challenges.
+Building applications using backend technologies, databases, APIs, and modern development tools.
 
 </td>
 </tr>
@@ -171,7 +212,7 @@ Working with backend systems, databases, APIs, and real-world development challe
 
 ---
 
-### `08 / establish_connection`
+### `09 / establish_connection`
 
 <div align="center">
 
@@ -185,9 +226,9 @@ $ ./connect.sh --target aniruddha
 
 <br>
 
-**Interested in technology, security, or building something useful?**
+**Interested in Computer Vision, Cybersecurity, or building something useful?**
 
-Feel free to connect.
+I'm always open to learning, meaningful discussions, and collaboration.
 
 <br>
 
