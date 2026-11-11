@@ -33,7 +33,7 @@
 
 | `institution` | `qualification` | `result` | `status` |
 |---|---|---|---|
-| BRAC University | B.Sc. in Computer Science & Engineering | `pending...` | 🟢 Active — 9th Semester |
+| BRAC University | B.Sc. in Computer Science & Engineering | `pending...` | 🟢 Active — 10th Semester |
 | Birshreshtha Noor Mohammad Public College | Higher Secondary Certificate (HSC) | `5.00 / 5.00` | ✅ Completed |
 | Ideal School and College | Secondary School Certificate (SSC) | `5.00 / 5.00` | ✅ Completed |
 
