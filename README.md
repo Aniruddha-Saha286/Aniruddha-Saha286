@@ -1,96 +1,132 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aniruddha%20Saha&fontSize=55&fontColor=00FFE5&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Enthusiast%20%7C%20CSE%20Student%20%7C%20Builder&descAlignY=58&descColor=8be9fd&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=39FF9C&background=0D1117&center=true&vCenter=true&width=700&height=50&lines=%24+whoami;Aniruddha+Saha+%E2%80%94+breaking+systems+to+learn+how+to+defend+them;%24+cat+status.log;Always+learning.+Always+building." alt="typing-svg" />
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-sahaaniruddha2004%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF9C)](mailto:sahaaniruddha2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Aniruddha--Saha286-0D1117?style=for-the-badge&logo=github&logoColor=8be9fd)](https://github.com/Aniruddha-Saha286)
-
-</div>
-
-<br>
-
-```bash
-┌──(aniruddha㉿brac-university)-[~/about_me]
-└─$ cat profile.txt
-
-> Final-year CSE student, currently hunting bugs in systems and
-> concepts in equal measure.
-> 
-> Interested in how things break — buffer overflows, broken auth,
-> misconfigured servers — and how to engineer software that doesn't.
-> 
-> Also dabbling in machine learning, because pattern recognition
-> never hurt anyone's threat model.
-```
-
-<br>
-
-## 📂 academic_log
-
-| `institution` | `qualification` | `result` | `status` |
-|---|---|---|---|
-| BRAC University | B.Sc. in Computer Science & Engineering | `pending...` | 🟢 Active — 10th Semester |
-| Birshreshtha Noor Mohammad Public College | Higher Secondary Certificate (HSC) | `5.00 / 5.00` | ✅ Completed |
-| Ideal School and College | Secondary School Certificate (SSC) | `5.00 / 5.00` | ✅ Completed |
-
-<br>
-
-## 🧰 system.tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,nodejs,express,flask,react,html,css,mysql,mongodb&theme=dark" />
-</p>
-
-<br>
-
-## 🎯 active_processes
-
-```diff
-+ [RUNNING]  Cybersecurity fundamentals & threat modeling
-+ [RUNNING]  Web application security
-+ [RUNNING]  Secure software development practices
-+ [RUNNING]  Machine learning concepts & applications
-+ [RUNNING]  Backend systems & database-driven applications
-```
-
-<br>
-
-## 📡 transmission_stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aniruddha-Saha286&show_icons=true&theme=cyberpunk&hide_border=true&hide_title=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Saha286&layout=compact&theme=cyberpunk&hide_border=true&hide_title=true" height="165" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:153B40&height=170&section=header&text=Aniruddha%20Saha&fontSize=48&fontColor=E6EDF3&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20%7C%20CSE%20Student%20%7C%20Builder&descSize=17&descAlignY=68&descColor=7EE7C7" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=7EE7C7&center=true&vCenter=true&width=650&height=45&lines=Learning+how+systems+break.;Building+software+that+holds+up.;Always+curious.+Always+improving." alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha-Saha286&theme=dark&hide_border=true&background=0D1117&ring=39FF9C&fire=8be9fd&currStreakLabel=39FF9C" />
+<a href="mailto:sahaaniruddha2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7EE7C7" />
+</a>
+&nbsp;
+<a href="https://github.com/Aniruddha-Saha286">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7EE7C7" />
+</a>
 
 </div>
 
-<br>
+---
 
-## 🏆 unlocked_achievements
+### `$ whoami`
+
+```bash
+aniruddha@bracu:~$ cat about.txt
+
+Name       : Aniruddha Saha
+University : BRAC University
+Degree     : B.Sc. in Computer Science & Engineering
+Interests  : Cybersecurity | Software Development | Machine Learning
+
+Motto      : Break it. Understand it. Build it better.
+```
+
+I'm a final-year CSE student who enjoys understanding how software works, why systems fail, and how to make them more secure.
+
+My interests lie in **cybersecurity, web application security, backend development, and machine learning**. I'm particularly curious about vulnerabilities, authentication systems, and secure software design.
+
+I believe the best way to learn technology is to **build, experiment, break things responsibly, and understand the reasons behind them.**
+
+---
+
+### `> current_focus`
+
+```text
+[ACTIVE] Cybersecurity fundamentals & threat modeling
+[ACTIVE] Web application security
+[ACTIVE] Secure software development
+[ACTIVE] Machine learning & its applications
+[ACTIVE] Backend development & database systems
+```
+
+---
+
+### `> tech_stack`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniruddha-Saha286&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" />
+
+<br><br>
+
+**Frameworks & Technologies**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,react&theme=dark" />
+
+<br><br>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
 </div>
 
-<br>
+---
+
+### `> academic_journey`
+
+| Institution | Qualification | Result | Status |
+|:---|:---|:---:|:---:|
+| **BRAC University** | B.Sc. in Computer Science & Engineering | In Progress | 🟢 10th Semester |
+| **Birshreshtha Noor Mohammad Public College** | HSC | 5.00 / 5.00 | Completed |
+| **Ideal School and College** | SSC | 5.00 / 5.00 | Completed |
+
+---
+
+### `> github_analytics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aniruddha-Saha286&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE7C7&text_color=C9D1D9&icon_color=7EE7C7" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Saha286&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE7C7&text_color=C9D1D9&langs_count=6" height="165" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Aniruddha-Saha286&theme=dark&hide_border=true&background=0D1117&ring=7EE7C7&fire=7EE7C7&currStreakLabel=7EE7C7&sideLabels=C9D1D9" />
+
+</div>
+
+---
+
+### `> connect`
 
 <div align="center">
 
 ```bash
 $ ./connect.sh --target aniruddha
+
+Connection established.
+Open to learning, collaboration, and new ideas.
 ```
 
-[![Email](https://img.shields.io/badge/Email-Send%20Packet-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF9C)](mailto:sahaaniruddha2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Trace%20Route-0D1117?style=for-the-badge&logo=github&logoColor=8be9fd)](https://github.com/Aniruddha-Saha286)
+<a href="mailto:sahaaniruddha2004@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7EE7C7" />
+</a>
+&nbsp;
+<a href="https://github.com/Aniruddha-Saha286">
+  <img src="https://img.shields.io/badge/Explore_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7EE7C7" />
+</a>
+
+<br><br>
+
+<sub>Keep learning. Keep building. Stay curious.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:153B40,100:0D1117&height=85&section=footer" width="100%" />
